@@ -14,7 +14,7 @@ while True:
         humidity = sensor.humidity
         print("Temperature: {}*C   Humidity: {}% ".format(temp, humidity))
     except RuntimeError as error:
-        print(error.args[0])
+        print(error.args[0]) # comment this line to disable the error messages
         time.sleep(2.0)
         continue
     except Exception as error:
