@@ -23,6 +23,6 @@ For more information on the CM4 Maker Board, check out the datasheet here:
 [CM4 Maker Board Datasheet](https://docs.google.com/document/d/1XmZSR81IN70pndZ2odBmlZgAufiIBawVdKZ71C7101Y/edit#)  
 
 ## Support  
-If you need further assistance, we welcome you to our [technical forum](http://forum.cytron.io) where our team will be happy to assist you.
+If you need further assistance, we welcome you to our [technical forum](http://forum.cytron.io) or you can contact us through email support@cytron.io where our team will be happy to assist you. 
 
 Let's start building with CM4 Maker Board!
