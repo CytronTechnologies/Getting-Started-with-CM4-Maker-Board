@@ -1,4 +1,7 @@
 # This code will test the audio jack, you can press button #17 to repeat the audio
+# Audio track credit: jeremy80 - L-R Tone Level Test @ -6 db max w/3 Sec. Countdown Leader
+# Audio track reference: https://freesound.org/people/jeremy80/sounds/230639/
+
 import RPi.GPIO as GPIO
 import time
 from pydub import AudioSegment
