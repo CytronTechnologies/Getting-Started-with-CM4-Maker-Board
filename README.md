@@ -25,6 +25,7 @@ To have better explaination on these code and related tutorial you can visit all
 * [Lesson 3 : Camera](https://cytron.io/tutorial/lesson-3-camera)  
 * [Lesson 4 : Setup Switch On/Off Button](https://cytron.io/tutorial/lesson-4-setup-switch-on-off-button)  
 * [Lesson 5 : RTC](https://cytron.io/tutorial/lesson-5-rtc)  
+* [Lesson 6 : Audio Jack](https://cytron.io/tutorial/lesson-6-audio-jack)  
 
 ## Documentation  
 For more information on the CM4 Maker Board, check out the datasheet here:  
